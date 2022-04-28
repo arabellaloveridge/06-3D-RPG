@@ -16,6 +16,8 @@ Sound Effects
 
 Score and timer system
 
+Particle system for explosions
+
 ## Future Development 
 
 More and elaborate levels 
@@ -25,6 +27,8 @@ Bigger terrain
 Voice acting and more dialogue
 
 Music
+
+Enemies and more challenges
 
 ## References
 
