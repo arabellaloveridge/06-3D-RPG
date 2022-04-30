@@ -1,5 +1,7 @@
 # 3D RPG - please grade!
 
+Note: I don't know my Project 4 grade, so if that's not 100% I would like that filled! Otherwise, the spare 20% on the midterm/final is good thank you. 
+
 A 3D RPG Game that involves a playable character, an NPC and a small challenge involing targets and a drone. 
 
 ## Implementation
